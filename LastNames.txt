@@ -1,0 +1,100 @@
+#1 SMITH – A smith is a craftsman, and was used for as an occupational title for many different crafts.
+#2 JOHNSON – Son of John.
+#3 WILLIAMS – Son or family of William.
+#4 BROWN – Surname from a nickname for someone with a dark complexion or hair.
+#5 JONES – From the family of Jon/John.
+#6 GARCIA – Of unknown meaning.
+#7 MILLER – Occupational surname for someone who worked in a mill. Grain, wood, etc.
+#8 DAVIS – Son of David.
+#9 RODRIGUEZ – Son of Rodrigo.
+#10 MARTINEZ – Son of Martin.
+#11 HERNANDEZ – Son of Hernando.
+#12 LOPEZ – Son of Lope/Lobe, meaning “wolf.”
+#13 GONZALEZ – Son of Gonzalo.
+#14 WILSON – Son of William.
+#15 ANDERSON – Son of Andrew.
+#16 THOMAS – Son of Thomas.
+#17 TAYLOR – From the family of the tailor.
+#18 MOORE – A family who lived near a marsh or bog.
+#19 JACKSON – Son of Jack/John.
+#20 MARTIN – From the god of Mars.
+#21 LEE – Family who lived in or near an open meadow or clearing.
+#22 PEREZ – Son of Pedro (Pedrez/Perez).
+#23 THOMPSON – Son of Thomas.
+#24 WHITE – A family of light complexion or hair.
+#25 HARRIS – Son of Harry.
+#26 SANCHEZ – Son of Sancho.
+#27 CLARK – Occupational surname for a clerk.
+#28 RAMIREZ – Son of Ramiro.
+#29 LEWIS – Son or family of Lewis.
+#30 ROBINSON – Son of Robin, a nickname for Robert.
+#31 WALKER – Occupational surname for a person who walked on damp cloth in order to thicken it.
+#32 YOUNG – Meaning “the younger.” Surname given to a son of a man, when they had the same name.
+#33 ALLEN – Little rock.
+#34 KING – Ruler of the area.
+#35 WRIGHT – Occupational surname meaning a craftsman.
+#36 SCOTT – From Scotland.
+#37 TORRES – Family who lived near a tower.
+#38 NGUYEN – Someone who played a stringed instrument, similar to a lute.
+#39 HILL – Family who lived near or on a hill.
+#40 FLORES – Son of Floro.
+#41 GREEN – Occupational surname for a groundskeeper or family that lived near an open green.
+#42 ADAMS – Family of Adam.
+#43 NELSON – Son of Neil.
+#44 BAKER – Occupational surname for family of a baker.
+#45 HALL – Occupational or place surname for a person who lived or worked in a hall.
+#46 RIVERA – From the shore or bank of a river.
+#47 CAMPBELL – From the Latin De Bello Campo meaning “from the beautiful field.” Could also be from a Scottish/Gaelic nickname (cam béul) meaning “crooked or sassy mouth.”
+#48 MITCHELL – Variation on the name Michael, meaning “Who is like God?”
+#49 CARTER – Occupational surname for a cart driver.
+#50 ROBERTS – Family of Robert.
+#51 GOMEZ – Man
+#52 PHILLIPS – Family of Phillip.
+#53 EVANS – Family of Evan.
+#54 TURNER – Occupational surname for someone who worked with a lathe.
+#55 DIAZ – Son of Diego
+#56 PARKER – Occupational surname for someone worked as a park keeper or game keeper.
+#57 CRUZ – Of the Cross – relating to Jesus Christ
+#58 EDWARDS – Family of Edward
+#59 COLLINS – Family of Coilean
+#60 REYES – Literally translated to “Kings,” it refers to the phrase “La Virgen de los Reyes,” meaning the Virgin of the Kings.
+#61 STEWART – Occupational surname for someone who was a steward.
+#62 MORRIS – Dark-skinned, from the Moors.
+#63 MORALES – By the mulberry tree
+#64 MURPHY – Irish surname meaning “Descendant of Murchadh.”
+#65 COOK – Occupational surname for a cook/chef.
+#66 ROGERS – Family of Roger
+#67 GUTIERREZ – Son of Gutierre.
+#68 ORTIZ – Son of Orti
+#69 MORGAN – Welsh surname meaning “by the sea.”
+#70 COOPER – Occupational surname for a barrel maker.
+#71 PETERSON – Son of Peter.
+#72 BAILEY – Occupational surname for a bailiff.
+#73 REED – Red – person with reddish complexion.
+#74 KELLY – Irish surname meaning “bright headed” or red-headed. From Ó Ceallaigh.
+#75 HOWARD – Occupational surname for a “ewe herder.”
+#76 RAMOS – Family from the wooded area. From the latin “ramus” meaning “branch.”
+#77 KIM – Korean surname meaning “gold.”
+#78 COX – Occupational surname, a derivative of “Cook”
+#79 WARD – Guardian
+#80 RICHARDSON – Son of Richard.
+#81 WATSON – Son of Walter. (Watt was a nickname for Walter)
+#82 BROOKS – Family who lived by or near a brook (creek).
+#83 CHAVEZ – Occupational surname for a key maker.
+#84 WOOD – Lives in or near the woods.
+#85 JAMES – Family of James (Supplanter).
+#86 BENNETT – Family of Benedict (Blessed).
+#87 GRAY – From a nickname for someone with gray hair or house.
+#88 MENDOZA – People who live near or are from the village of Mendoza, Spain. Basque term meaning “Cold Mountain.”
+#89 RUIZ – Son of Ruy or Roy.
+#90 HUGHES – Family of Hugh.
+#91 PRICE – Family of Rhys.
+#92 ALVAREZ – Family of Alvaro.
+#93 CASTILLO – Lives in or near the Castle.
+#94 SANDERS – Family of Alexander.
+#95 PATEL – Indian/Gujarati surname meaning “Landowner.”
+#96 MYERS – Occupational surname for a Mayor.
+#97 LONG – Surname from a nickname for someone who was tall.
+#98 ROSS – Scottish surname indicating someone who lived on or near a point of high land that juts out into a large body of water.
+#99 FOSTER – Occupational surname, a contraction of “Forester.”
+#100 JIMENEZ – Son of Jim/James.
